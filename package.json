@@ -2,9 +2,9 @@
   "name": "codespace-auth",
   "version": "1.0.0",
   "description": "An authentication application build with node to try out codespace",
-  "main": "index.js",
+  "main": "node index.js",
   "scripts": {
-    "start": "index.js"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
